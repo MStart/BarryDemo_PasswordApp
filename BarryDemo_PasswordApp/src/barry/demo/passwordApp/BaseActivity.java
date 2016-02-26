@@ -15,5 +15,5 @@ public class BaseActivity extends Activity {
 			startActivity(intent);
 		}
 	};
-
+//git ²âÊÔ¼ìÑéĞ§¹û
 }
